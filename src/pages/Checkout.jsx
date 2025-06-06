@@ -20,7 +20,7 @@ function Checkout() {
     }
 
     const options = {
-      key: 'rzp_test_YourKeyHere',
+      key: 'rzp_test_93stZa7jDdBd2U',
       currency: 'INR',
       amount: 49900, // 499.00 INR
       name: 'My E-Commerce',
